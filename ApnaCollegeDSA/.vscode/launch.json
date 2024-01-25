@@ -1,0 +1,924 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "PRime",
+            "request": "launch",
+            "mainClass": "HASHMAP.PRime",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "TCS.Solution",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MAx1Row",
+            "request": "launch",
+            "mainClass": "TCS.MAx1Row",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "PriorElementCount",
+            "request": "launch",
+            "mainClass": "TCS.PriorElementCount",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ValidString",
+            "request": "launch",
+            "mainClass": "TCS.ValidString",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Panagram",
+            "request": "launch",
+            "mainClass": "TCS.Panagram",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "SecondMostFre",
+            "request": "launch",
+            "mainClass": "TCS.SecondMostFre",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "JobSequencing",
+            "request": "launch",
+            "mainClass": "JobSequencing",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MazeProblem",
+            "request": "launch",
+            "mainClass": "BACKTRACKING.MazeProblem",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "GRID_WAYS",
+            "request": "launch",
+            "mainClass": "BACKTRACKING.GRID_WAYS",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "NQUEEN_3",
+            "request": "launch",
+            "mainClass": "BACKTRACKING.NQUEEN_3",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "NQUEEN_COUNT",
+            "request": "launch",
+            "mainClass": "BACKTRACKING.NQUEEN_COUNT",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "NQUEENS",
+            "request": "launch",
+            "mainClass": "BACKTRACKING.NQUEENS",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "DjikstrasShortestPathAlgorithm",
+            "request": "launch",
+            "mainClass": "GRAPHS.DjikstrasShortestPathAlgorithm",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "PrintALLpath",
+            "request": "launch",
+            "mainClass": "GRAPHS.PrintALLpath",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "TOPOLOGICALsort",
+            "request": "launch",
+            "mainClass": "GRAPHS.TOPOLOGICALsort",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "FindPath",
+            "request": "launch",
+            "mainClass": "GRAPHS.FindPath",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "findPath",
+            "request": "launch",
+            "mainClass": "GRAPHS.findPath",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "BFS_DFS_TRAVERSAL",
+            "request": "launch",
+            "mainClass": "GRAPHS.BFS_DFS_TRAVERSAL",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "BfsTraversal",
+            "request": "launch",
+            "mainClass": "GRAPHS.BfsTraversal",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Interleave",
+            "request": "launch",
+            "mainClass": "QUEUE.Interleave",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ImplementationUsingAdhacencyList",
+            "request": "launch",
+            "mainClass": "GRAPHS.ImplementationUsingAdhacencyList",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "STRingCHarRemove",
+            "request": "launch",
+            "mainClass": "TCS.STRingCHarRemove",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDupicate",
+            "request": "launch",
+            "mainClass": "RECURSION.RemoveDupicate",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "BacktrackingOnAnArray",
+            "request": "launch",
+            "mainClass": "BACKTRACKING.BacktrackingOnAnArray",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "LongestCommonPrefix",
+            "request": "launch",
+            "mainClass": "TRIES.LongestCommonPrefix",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Tries",
+            "request": "launch",
+            "mainClass": "TRIES.Tries",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MostFrequent",
+            "request": "launch",
+            "mainClass": "ARRAYLIST.MostFrequent",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "LonelyNUm",
+            "request": "launch",
+            "mainClass": "ARRAYLIST.LonelyNUm",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Monotonic",
+            "request": "launch",
+            "mainClass": "ARRAYLIST.Monotonic",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Anagram",
+            "request": "launch",
+            "mainClass": "ARRAYLIST.Anagram",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "PairSum_2",
+            "request": "launch",
+            "mainClass": "ARRAYLIST.PairSum_2",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "PairSum",
+            "request": "launch",
+            "mainClass": "ARRAYLIST.PairSum",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MaxWaterContainer",
+            "request": "launch",
+            "mainClass": "ARRAYLIST.MaxWaterContainer",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MultiDArrayList",
+            "request": "launch",
+            "mainClass": "ARRAYLIST.MultiDArrayList",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "EVENbeforeODD",
+            "request": "launch",
+            "mainClass": "LINKEDLIST.EVENbeforeODD",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "isPallindrome",
+            "request": "launch",
+            "mainClass": "LINKEDLIST.isPallindrome",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "DLL",
+            "request": "launch",
+            "mainClass": "LINKEDLIST.DLL",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ZigZagMerging",
+            "request": "launch",
+            "mainClass": "LINKEDLIST.ZigZagMerging",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MergeSortOverLL",
+            "request": "launch",
+            "mainClass": "LINKEDLIST.MergeSortOverLL",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "RemoveCycle",
+            "request": "launch",
+            "mainClass": "LINKEDLIST.RemoveCycle",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "DetectCycle",
+            "request": "launch",
+            "mainClass": "LINKEDLIST.DetectCycle",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "SWM",
+            "request": "launch",
+            "mainClass": "HEAP.SWM",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Prime$Solution",
+            "request": "launch",
+            "mainClass": "HEAP.Prime$Solution",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "HEAP.Prime",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMaxs",
+            "request": "launch",
+            "mainClass": "HEAP.SlidingWindowMaxs",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "SlidingWindowMax",
+            "request": "launch",
+            "mainClass": "HEAP.SlidingWindowMax",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "KweakestSoldier",
+            "request": "launch",
+            "mainClass": "HEAP.KweakestSoldier",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ConnectNRopes",
+            "request": "launch",
+            "mainClass": "HEAP.ConnectNRopes",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "NearkCars",
+            "request": "launch",
+            "mainClass": "HEAP.NearkCars",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HeapSort",
+            "request": "launch",
+            "mainClass": "HEAP.HeapSort",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Heap",
+            "request": "launch",
+            "mainClass": "HEAP.Heap",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "QuickSort",
+            "request": "launch",
+            "mainClass": "SORTINGALGO.QuickSort",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MergeSort",
+            "request": "launch",
+            "mainClass": "SORTINGALGO.MergeSort",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "InsertionSort",
+            "request": "launch",
+            "mainClass": "SORTINGALGO.InsertionSort",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "SelectionSort",
+            "request": "launch",
+            "mainClass": "SORTINGALGO.SelectionSort",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "BubbleSort",
+            "request": "launch",
+            "mainClass": "SORTINGALGO.BubbleSort",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Merge2BST",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.Merge2BST",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MaxBSTsize",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.MaxBSTsize",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MirrorTree",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.MirrorTree",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "BST_toBalancedBst",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.BST_toBalancedBst",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "SortedArray_BST",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.SortedArray_BST",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ValidateBSt",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.ValidateBSt",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "PrintPath",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.PrintPath",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "PrintInRange",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.PrintInRange",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Search",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.Search",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "BST",
+            "request": "launch",
+            "mainClass": "BINARY_SEARCH_TREE.BST",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "BINARYTREES.BinarySearch",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "DeleteKLeafNode",
+            "request": "launch",
+            "mainClass": "BINARYTREES.DeleteKLeafNode",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MirrorTree",
+            "request": "launch",
+            "mainClass": "BINARYTREES.MirrorTree",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Univalue",
+            "request": "launch",
+            "mainClass": "BINARYTREES.Univalue",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "SumTree",
+            "request": "launch",
+            "mainClass": "BINARYTREES.SumTree",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MinDistance",
+            "request": "launch",
+            "mainClass": "BINARYTREES.MinDistance",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "A_2_LowestCommonAncester",
+            "request": "launch",
+            "mainClass": "BINARYTREES.A_2_LowestCommonAncester",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "A_1_LowestCommonAncester",
+            "request": "launch",
+            "mainClass": "BINARYTREES.A_1_LowestCommonAncester",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Kthlevel",
+            "request": "launch",
+            "mainClass": "BINARYTREES.Kthlevel",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "TopView",
+            "request": "launch",
+            "mainClass": "BINARYTREES.TopView",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "MIN.Solution",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ISsubtree",
+            "request": "launch",
+            "mainClass": "BINARYTREES.ISsubtree",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "DiameterOfATree",
+            "request": "launch",
+            "mainClass": "BINARYTREES.DiameterOfATree",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "CountNode",
+            "request": "launch",
+            "mainClass": "BINARYTREES.CountNode",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HeightOfTheTree",
+            "request": "launch",
+            "mainClass": "BINARYTREES.HeightOfTheTree",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "LevelOrderTraversal",
+            "request": "launch",
+            "mainClass": "BINARYTREES.LevelOrderTraversal",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "PreeOrder",
+            "request": "launch",
+            "mainClass": "BINARYTREES.PreeOrder",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "IMplementingBinaryTree",
+            "request": "launch",
+            "mainClass": "BINARYTREES.IMplementingBinaryTree",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "DEQUE.Problems.Solution",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ReverseUPTOk",
+            "request": "launch",
+            "mainClass": "DEQUE.Problems.ReverseUPTOk",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Queue_using_deque",
+            "request": "launch",
+            "mainClass": "DEQUE.Queue_using_deque",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Stack_Queue",
+            "request": "launch",
+            "mainClass": "DEQUE.Stack_Queue",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "InterleaveTwoQueue",
+            "request": "launch",
+            "mainClass": "QUEUE.InterleaveTwoQueue",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "FirstNonRepeatingCharInAStreamOfCharacter",
+            "request": "launch",
+            "mainClass": "QUEUE.FirstNonRepeatingCharInAStreamOfCharacter",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "STACKusing2queues",
+            "request": "launch",
+            "mainClass": "QUEUE.STACKusing2queues",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "USING2_1STACKS",
+            "request": "launch",
+            "mainClass": "QUEUE.USING2_1STACKS",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "USING2Stacks",
+            "request": "launch",
+            "mainClass": "QUEUE.USING2Stacks",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "IMPLEMENTATIONUSING_LLS",
+            "request": "launch",
+            "mainClass": "QUEUE.IMPLEMENTATIONUSING_LLS",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "CircularQUEUE",
+            "request": "launch",
+            "mainClass": "QUEUE.CircularQUEUE",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "IMPLEMENTATIONusingArray",
+            "request": "launch",
+            "mainClass": "QUEUE.IMPLEMENTATIONusingArray",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "SimplifyDirectory",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.SimplifyDirectory",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Node",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.Node",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ISlinkedlistPallindrome",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.ISlinkedlistPallindrome",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "MAXAREAHISTOGRAM",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.MAXAREAHISTOGRAM",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "RECTANGLE",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.MAXAREAinHISTOGRAM.RECTANGLE",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Regreater",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.Regreater",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "REANAGRAM",
+            "request": "launch",
+            "mainClass": "HASHMAP.REANAGRAM",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "DuplicateParenthesis",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.DuplicateParenthesis",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ValidParenthesis",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.ValidParenthesis",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "SpanStock",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.SpanStock",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "NextGreater",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.NextGreater",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ReverseAStack",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.ReverseAStack",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ReverseAString",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.ReverseAString",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "PushAtBottom",
+            "request": "launch",
+            "mainClass": "STACK.PROBLEMS.PushAtBottom",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingLinkedList",
+            "request": "launch",
+            "mainClass": "STACK.StackUsingLinkedList",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingArrayList$Stack",
+            "request": "launch",
+            "mainClass": "STACK.StackUsingArrayList$Stack",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "StackUsingArrayList",
+            "request": "launch",
+            "mainClass": "STACK.StackUsingArrayList",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HashMapArrayIndexwhoseSumEqualToGivenNum",
+            "request": "launch",
+            "mainClass": "HASHMAP.HashMapArrayIndexwhoseSumEqualToGivenNum",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HashMapLargestSubArraylength",
+            "request": "launch",
+            "mainClass": "HASHMAP.HashMapLargestSubArraylength",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HashMapTicketIternary",
+            "request": "launch",
+            "mainClass": "HASHMAP.HashMapTicketIternary",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HashMapUnionIntersection",
+            "request": "launch",
+            "mainClass": "HASHMAP.HashMapUnionIntersection",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HashMapDistinctElement",
+            "request": "launch",
+            "mainClass": "HASHMAP.HashMapDistinctElement",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Count",
+            "request": "launch",
+            "mainClass": "HASHMAP.Count",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Hashset1",
+            "request": "launch",
+            "mainClass": "HASHSET.Hashset1",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HashMapAnagram",
+            "request": "launch",
+            "mainClass": "HASHMAP.HashMapAnagram",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HashmapP1",
+            "request": "launch",
+            "mainClass": "HASHMAP.HashmapP1",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "HashMapCode",
+            "request": "launch",
+            "mainClass": "HashMapCode",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "LLs",
+            "request": "launch",
+            "mainClass": "LLs",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "ArrayList2",
+            "request": "launch",
+            "mainClass": "ArrayList2",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "ArrayLists",
+            "request": "launch",
+            "mainClass": "ArrayLists",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "LL",
+            "request": "launch",
+            "mainClass": "LL",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Tut1_linkedList",
+            "request": "launch",
+            "mainClass": "Tut1_linkedList",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        },
+        {
+            "type": "java",
+            "name": "Tut2_linkedListColl",
+            "request": "launch",
+            "mainClass": "Tut2_linkedListColl",
+            "projectName": "ApnaCollegeDSA_69b70895"
+        }
+    ]
+}

@@ -1,0 +1,588 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "PATTERNS.Solution",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "DtoB",
+            "request": "launch",
+            "mainClass": "DtoB",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "BinaryToDecimal",
+            "request": "launch",
+            "mainClass": "BinaryToDecimal",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Prime",
+            "request": "launch",
+            "mainClass": "Prime",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "JobSequencing",
+            "request": "launch",
+            "mainClass": "GREEDY.JobSequencing",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "IndianCoin",
+            "request": "launch",
+            "mainClass": "GREEDY.IndianCoin",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "FindPair",
+            "request": "launch",
+            "mainClass": "GREEDY.FindPair",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MinAbsDiff",
+            "request": "launch",
+            "mainClass": "GREEDY.MinAbsDiff",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "FRACTIONALKNAPSACK",
+            "request": "launch",
+            "mainClass": "GREEDY.FRACTIONALKNAPSACK",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MAXactivityUNSORTED",
+            "request": "launch",
+            "mainClass": "GREEDY.MAXactivityUNSORTED",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MAXactivity",
+            "request": "launch",
+            "mainClass": "GREEDY.MAXactivity",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "CommonEle",
+            "request": "launch",
+            "mainClass": "ARRAY.CommonEle",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ReturnNthRow",
+            "request": "launch",
+            "mainClass": "RECURSION.ReturnNthRow",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "CountNumOfDigit",
+            "request": "launch",
+            "mainClass": "RECURSION.CountNumOfDigit",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Replace0with1",
+            "request": "launch",
+            "mainClass": "RECURSION.Replace0with1",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "NumberOfHandShake",
+            "request": "launch",
+            "mainClass": "RECURSION.NumberOfHandShake",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "buyORSELLprofitAfterSecondSell",
+            "request": "launch",
+            "mainClass": "buyORSELLprofitAfterSecondSell",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ktimes",
+            "request": "launch",
+            "mainClass": "ARRAY.ElementMoreThanN.ktimes",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "buyORSELL",
+            "request": "launch",
+            "mainClass": "buyORSELL",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ProgramTOcountConversion",
+            "request": "launch",
+            "mainClass": "ARRAY.ProgramTOcountConversion",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "floydWarshalforDuplicate",
+            "request": "launch",
+            "mainClass": "floydWarshalforDuplicate",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "RepeatingElement",
+            "request": "launch",
+            "mainClass": "ARRAY.RepeatingElement",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubarraySum",
+            "request": "launch",
+            "mainClass": "ARRAY.MaxSubarraySum",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "NumberOFpairs",
+            "request": "launch",
+            "mainClass": "ARRAY.NumberOFpairs",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "TowerOfHanoi",
+            "request": "launch",
+            "mainClass": "TowerOfHanoi",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ChangeOrderForK",
+            "request": "launch",
+            "mainClass": "ARRAY.ChangeOrderForK",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "TILINGPROBLEM",
+            "request": "launch",
+            "mainClass": "RECURSION.TILINGPROBLEM",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "NumToString",
+            "request": "launch",
+            "mainClass": "RECURSION.NumToString",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "FirstANDlastOccurence",
+            "request": "launch",
+            "mainClass": "RECURSION.FirstANDlastOccurence",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "CheckArrayIsSorted",
+            "request": "launch",
+            "mainClass": "RECURSION.CheckArrayIsSorted",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "LCMandHCF",
+            "request": "launch",
+            "mainClass": "RECURSION.LCMandHCF",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "LengthOfTheStringWithLengthFunciton",
+            "request": "launch",
+            "mainClass": "RECURSION.LengthOfTheStringWithLengthFunciton",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ReverseOfANumber",
+            "request": "launch",
+            "mainClass": "RECURSION.ReverseOfANumber",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MAXandMINelementoftheArray",
+            "request": "launch",
+            "mainClass": "RECURSION.MAXandMINelementoftheArray",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "IsPrime",
+            "request": "launch",
+            "mainClass": "RECURSION.IsPrime",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "PowerOfANumber",
+            "request": "launch",
+            "mainClass": "RECURSION.PowerOfANumber",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Stocks",
+            "request": "launch",
+            "mainClass": "Stocks",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "TrappingRainwater",
+            "request": "launch",
+            "mainClass": "TrappingRainwater",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "KADANEalgoforMaxSubarraySum",
+            "request": "launch",
+            "mainClass": "ARRAY.KADANEalgoforMaxSubarraySum",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "SubArrayIIMP",
+            "request": "launch",
+            "mainClass": "ARRAY.SubArrayIIMP",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "SubArrayIIMP",
+            "request": "launch",
+            "mainClass": "SubArrayIIMP",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "PairsInAnArray",
+            "request": "launch",
+            "mainClass": "ARRAY.PairsInAnArray",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "SubArray",
+            "request": "launch",
+            "mainClass": "ARRAY.SubArray",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceWithGivenWord",
+            "request": "launch",
+            "mainClass": "STRINGS.ReplaceWithGivenWord",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Replace",
+            "request": "launch",
+            "mainClass": "STRINGS.Replace",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ValidAnagram",
+            "request": "launch",
+            "mainClass": "STRINGS.ValidAnagram",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "FirstNonRepeatingCharacter",
+            "request": "launch",
+            "mainClass": "STRINGS.FirstNonRepeatingCharacter",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfCharacter",
+            "request": "launch",
+            "mainClass": "STRINGS.FrequencyOfCharacter",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "CapitalizeFirstAndLastCharacterOfAstring",
+            "request": "launch",
+            "mainClass": "STRINGS.CapitalizeFirstAndLastCharacterOfAstring",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "P",
+            "request": "launch",
+            "mainClass": "STRINGS.P",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "CALCULATEsumOFtheNumbersInAString",
+            "request": "launch",
+            "mainClass": "STRINGS.CALCULATEsumOFtheNumbersInAString",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "RemoveBrackets",
+            "request": "launch",
+            "mainClass": "STRINGS.RemoveBrackets",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "RemoveAllExceptAlphabets",
+            "request": "launch",
+            "mainClass": "STRINGS.RemoveAllExceptAlphabets",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "CheckPallindrome",
+            "request": "launch",
+            "mainClass": "STRINGS.CheckPallindrome",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Count_AND_removeVowel",
+            "request": "launch",
+            "mainClass": "STRINGS.Count_AND_removeVowel",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Toggle",
+            "request": "launch",
+            "mainClass": "STRINGS.Toggle",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "STRINGS.Solution",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ValidParenthesis",
+            "request": "launch",
+            "mainClass": "ARRAY.ValidParenthesis",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "RotateArraybyKtimes",
+            "request": "launch",
+            "mainClass": "ARRAY.RotateArraybyKtimes",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "RotatingElementRight_Left",
+            "request": "launch",
+            "mainClass": "ARRAY.RotatingElementRight_Left",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Equilibriumindex_2",
+            "request": "launch",
+            "mainClass": "ARRAY.Equilibriumindex_2",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Equilibriumindex",
+            "request": "launch",
+            "mainClass": "ARRAY.Equilibriumindex",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceElementWithThierRank",
+            "request": "launch",
+            "mainClass": "ARRAY.ReplaceElementWithThierRank",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MinimumAbsoluteDifference",
+            "request": "launch",
+            "mainClass": "ARRAY.MinimumAbsoluteDifference",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "ElementcanbeMadeEqual",
+            "request": "launch",
+            "mainClass": "ARRAY.ElementcanbeMadeEqual",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Subarary",
+            "request": "launch",
+            "mainClass": "ARRAY.Subarary",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "DistinctElementArray",
+            "request": "launch",
+            "mainClass": "ARRAY.DistinctElementArray",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MaxSubarrayProduct",
+            "request": "launch",
+            "mainClass": "ARRAY.MaxSubarrayProduct",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "ARRAY.Solution",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "CountDistinctElement",
+            "request": "launch",
+            "mainClass": "ARRAY.CountDistinctElement",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "FirstHalfInAsc_SecondInDes",
+            "request": "launch",
+            "mainClass": "ARRAY.FirstHalfInAsc_SecondInDes",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyBasedSorting",
+            "request": "launch",
+            "mainClass": "ARRAY.FrequencyBasedSorting",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "FrequencyOfTheElement",
+            "request": "launch",
+            "mainClass": "ARRAY.FrequencyOfTheElement",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "LargestPallindromicNumber",
+            "request": "launch",
+            "mainClass": "ARRAY.LargestPallindromicNumber",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MaxScalarProduct",
+            "request": "launch",
+            "mainClass": "ARRAY.MaxScalarProduct",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MinimumScalarProduct",
+            "request": "launch",
+            "mainClass": "ARRAY.MinimumScalarProduct",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "MostFrequentElement",
+            "request": "launch",
+            "mainClass": "ARRAY.MostFrequentElement",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "NonRepeating",
+            "request": "launch",
+            "mainClass": "ARRAY.NonRepeating",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "RemoveDuplicateFromTheArray",
+            "request": "launch",
+            "mainClass": "ARRAY.RemoveDuplicateFromTheArray",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Symmetric",
+            "request": "launch",
+            "mainClass": "ARRAY.Symmetric",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "Numbers.Solution",
+            "projectName": "JavaQuestion_80712e60"
+        },
+        {
+            "type": "java",
+            "name": "PerfectSquare",
+            "request": "launch",
+            "mainClass": "PerfectSquare",
+            "projectName": "JavaQuestion_80712e60"
+        }
+    ]
+}
